@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(56, 0, 96);
+}
+
+.man {
+    width: 500px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    margin: 20px auto;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 4px solid rgba(165, 42, 64, 0.97);
+    color: darkblue;
+    background-color: #de9bde;
+}
+
+h1 {
+    margin: 0 auto 10px;
+    text-shadow: 1px 1px 0 #d7344e;
+}
+
+img {
+    margin: 0 auto;
+}
+
+p {
+    text-align: center;
+    text-transform: lowercase;
+}
+
+.beep {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    color: #000ccc;
+}
